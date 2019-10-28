@@ -1,0 +1,8 @@
+javaapplication1.registerform
+javaapplication1.registerform$1
+javaapplication1.registerform$2
+javaapplication1.registerform$3
+javaapplication1.registerform$4
+javaapplication1.registerform$5
+javaapplication1.registerform$6
+javaapplication1.registerform$7
